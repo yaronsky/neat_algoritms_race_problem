@@ -6,4 +6,6 @@ https://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 https://neat-python.readthedocs.io/en/latest/
 https://miro.com/app/board/uXjVPQAbgRw=/?share_link_id=205723303800
 
+http://www.robotiksistem.com/servo_motor_types_properties.html
+
  
